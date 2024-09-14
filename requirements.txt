@@ -1,6 +1,6 @@
 streamlit-lottie
 torch
-opencv-python
+opencv-python-headless
 pillow
 ultralytics
 streamlit == 1.36.0
