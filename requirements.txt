@@ -1,0 +1,9 @@
+streamlit-lottie
+torch
+opencv-python
+pillow
+ultralytics
+streamlit == 1.36.0
+pandas == 2.2.2
+numpy == 1.26.4
+scikit-learn == 1.5.1
