@@ -1,10 +1,10 @@
 streamlit-lottie
-torch==2.0.1
-opencv-python-headless==4.7.0.72
-pillow==9.5.0
-ultralytics==8.0.117
-streamlit==1.36.0
-pandas==2.2.2
-numpy==1.24.3
-scikit-learn==1.0.2
+torch
+opencv-python-headless
+pillow
+ultralytics
+streamlit == 1.36.0
+pandas == 2.2.2
+numpy == 1.26.4
+scikit-learn == 1.5.1
 pip == 24.1.2
